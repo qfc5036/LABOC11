@@ -3,5 +3,5 @@
 int main(void) {
   char *name =readline("Enter your name: ");
   printf("Hello, %s!\n",name);
-  return 0;
+  return 0;   ]
 }
